@@ -10,11 +10,13 @@ When the image is ready, hit <kbd>CTRL</kbd>/<kbd>CMD</kbd>+<kbd>S</kbd> to save
 
 ## Example
 The example uses some dummy text (from [Blind Text Generator](http://www.blindtextgenerator.com)) using a mask
-[Example using a mask][example_mask.png]
+![Example using a mask](example_mask.png)
+
 or without a mask
-[Example without a mask][example.png]
+
+![Example without a mask](example.png)
 
 ## TODO
-[ ] Allow repetition of words (to fill masks)
-[ ] Add more shortcuts
+- [ ] Allow repetition of words (to fill masks)
+- [ ] Add more shortcuts
 
