@@ -1,0 +1,23 @@
+{
+    "image_width": 512,
+    "image_height": 512,
+    "image_border": 0,
+    "image_mask": null,
+    "image_background": [0, 0, 0],
+    "font_min": 10,
+    "font_max": 100,
+    "font_spacing": 1,
+    "font_file": "arial",
+    "font_colors": [
+        [177,73,20],
+        [229,126,50],
+        [235,219,203],
+        [227,228,233],
+        [74,55,42]
+    ],
+    "words_file": "fox.txt",
+    "words_limit": 150,
+    "angle_min": 0,
+    "angle_max": 90,
+    "angle_steps": 3
+}
