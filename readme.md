@@ -19,4 +19,5 @@ or without a mask
 ## TODO
 - [ ] Allow repetition of words (to fill masks)
 - [ ] Add more shortcuts
+- [ ] Allow alternative input format
 
