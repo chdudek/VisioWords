@@ -17,7 +17,10 @@ or without a mask
 ![Example without a mask](example.png)
 
 ## TODO
-- [ ] Allow repetition of words (to fill masks)
+- [ ] Allow repetition of words/word fill (to fill masks)
+- [ ] Alternative colors for word fill
 - [ ] Add more shortcuts
 - [ ] Allow alternative input format
+- [ ] Allow HTML/Hex colors in config
+- [ ] Alternative spiral algorithms
 
